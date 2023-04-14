@@ -10,4 +10,4 @@
  - Publicação no GitHub: git push origin main 
  - Verificação do status no git: git status
 
-## [README.MD](https://github.com/thaizepaulo/dio-desafio-projetos-primeiro-repositorio/blob/main/README.md)
+### [README.MD](https://github.com/thaizepaulo/dio-desafio-projetos-primeiro-repositorio/blob/main/README.md)
