@@ -1,2 +1,3 @@
-# dio-desafio-projetos-primeiro-repositorio
-Desafio de Projetos da Dio - Criando o Primeiro Repositório
+# Desafio de Projetos da Dio - Criando o Primeiro Repositório
+Reposítório para o Desafio de Projetos da Dio - Criando o Primeiro Repositório
+
