@@ -9,3 +9,5 @@
  - Commit das alterações: git commit -m "primeiro commit no git"
  - Publicação no GitHub: git push origin main 
  - Verificação do status no git: git status
+
+## [README.MD](https://github.com/thaizepaulo/dio-desafio-projetos-primeiro-repositorio/blob/main/README.md)
